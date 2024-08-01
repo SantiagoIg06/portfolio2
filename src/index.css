@@ -28,7 +28,7 @@ h1 {
   line-height: 1.1;
 }
 h1:hover {
-  transition: 1s;
+  transition: 0.5s;
   color: #646cff;
 }
 
@@ -52,7 +52,7 @@ button:hover {
 }
 button:focus,
 button:focus-visible {
-  transition: 1s;
+  transition: 0.5s;
   color: #f9f9f9;
   outline: 4px auto -webkit-focus-ring-color;
 }
